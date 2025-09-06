@@ -1,4 +1,4 @@
-# Detailed Difficultly mod for CDDA
+# Rebalance Difficultly mod for CDDA
 昔よく遊んでいた詳細設定ができなくなったので。
 - モンスターの速度:0.9
 - 進化速度: x16 (現在は基準値が4.0から1.0になったので設定値は4.0)
