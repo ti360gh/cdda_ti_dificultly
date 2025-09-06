@@ -1,0 +1,16 @@
+[
+  {
+    "type": "EXTERNAL_OPTION",
+    "name": "MONSTER_SPEED",
+    "//": "モンスターの速度",
+    "stype": "int",
+    "value": 90
+  },
+  {
+    "type": "EXTERNAL_OPTION",
+    "name": "EVOLUTION_INVERSE_MULTIPLIER",
+    "//": "モンスターの速度",
+    "stype": "float",
+    "value": 4
+  }
+]

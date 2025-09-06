@@ -1,0 +1,12 @@
+[
+  {
+    "type": "MOD_INFO",
+    "id": "ti_difficultly",
+    "name": "変更 - 世界設定(モンスター速度90,進化速度4)",
+    "authors": [ "ti" ],
+    "maintainers": [ "ti" ],
+    "description": "モンスター速度90,進化速度4",
+    "category": "rebalance",
+    "dependencies": [ "dda" ]
+  }
+]
